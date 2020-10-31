@@ -1,3 +1,7 @@
+# ... other deps
+imgaug --no-binary imgaug
+# ... other deps
+
 numpy==1.18.5
 matplotlib==3.2.2
 pandas==1.0.5
