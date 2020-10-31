@@ -9,4 +9,3 @@ opencv-python==4.4.0.44
 watermark==2.0.2
 scikit-learn==0.23.1
 scikit-image==0.16.2
-scikit-mage.io==0.16.2
